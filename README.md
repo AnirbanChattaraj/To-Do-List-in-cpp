@@ -21,6 +21,7 @@ Add, view, and delete your tasks like a boss 😎
 🌟 Why This Project Rocks
 
 ✨ Simple enough for beginners
-🔥 Clean code, no unnecessary junk
+
+
 
 Author--> Anirban Chattaraj
