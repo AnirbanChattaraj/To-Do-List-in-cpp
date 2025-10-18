@@ -8,9 +8,13 @@ Add, view, and delete your tasks like a boss 😎
 🎯 Features That Slap:
 
 ✅ Add unlimited tasks
+
 ✅ View all your to-dos in style
+
 ✅ Delete tasks by number
+
 ✅ Simple, lightweight & beginner-friendly
+
 ✅ Runs on any system with a C++ compiler
 
 
